@@ -1,0 +1,40 @@
+.contact {
+  background: #222;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.contact h2 {
+  font-size: 26px;
+  margin-bottom: 15px;
+  color: #f1f1f1;
+}
+
+.contact p {
+  font-size: 16px;
+  color: #ccc;
+  margin: 5px 0;
+}
+
+.social-icons {
+  margin: 15px 0;
+}
+
+.social-icons a {
+  color: #fff;
+  font-size: 22px;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #ff9800; /* orange hover effect */
+}
+
+.copy {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #aaa;
+}
